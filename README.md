@@ -71,7 +71,3 @@ This project is a simple graphical user interface (GUI) application for extracti
 - Ensure that the image size is manageable to avoid performance issues.
 - For custom fonts, modify the `font_path` in the `extract_text` function.
 - The result image's dimensions are adjusted dynamically to fit within a maximum size of 1600x800 pixels.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
