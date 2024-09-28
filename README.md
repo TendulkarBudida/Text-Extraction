@@ -55,8 +55,7 @@ This project is a simple graphical user interface (GUI) application for extracti
 .
 ├── .venv             # Virtual environment (optional)
 ├── main.py           # Main Python script
-├── README.md         # This readme file
-└── arial.ttf         # Font file for rendering text on the image (download separately if not present)
+└── README.md         # This readme file
 ```
 
 ## Libraries Used
