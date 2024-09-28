@@ -38,7 +38,7 @@ This project is a simple graphical user interface (GUI) application for extracti
 
 1. Run the Python script.
    ```bash
-   python ocr_app.py
+   python main.py
    ```
 
 2. Click the **"Upload Image"** button to upload an image from your system.
@@ -53,10 +53,10 @@ This project is a simple graphical user interface (GUI) application for extracti
 
 ```
 .
-├── ocr_app.py        # Main Python script
+├── .venv             # Virtual environment (optional)
+├── main.py           # Main Python script
 ├── README.md         # This readme file
-├── arial.ttf         # Font file for rendering text on the image (download separately if not present)
-└── requirements.txt  # Optional: list of dependencies
+└── arial.ttf         # Font file for rendering text on the image (download separately if not present)
 ```
 
 ## Libraries Used
